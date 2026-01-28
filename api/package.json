@@ -24,7 +24,7 @@
     "fastify-plugin": "4.5.1",
     "joi": "17.12.2",
     "jsonwebtoken": "9.0.2",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mongodb": "4.17.2",
     "nanoid": "3",
     "no-profanity": "1.5.1",
